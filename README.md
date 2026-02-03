@@ -1,3 +1,4 @@
+#po-prediction-classifier
 📦 PO Category Classifier (L1–L2–L3)
 
 A Streamlit-based AI application that classifies Purchase Order (PO) descriptions into L1, L2, and L3 categories using a fixed enterprise taxonomy and a large language model (LLM) powered by Groq.
